@@ -1,0 +1,19 @@
+{
+  "name": "onlinestore",
+  "version": "1.0.0",
+  "description": "basic PEAN stack app [node express postgres angular]",
+  "main": "index.js",
+  "scripts": {
+   
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/etlhako-code/OnlineStore.git"
+  },
+  "author": "ephraim tlhako <etlhako@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/etlhako-code/OnlineStore/issues"
+  },
+  "homepage": "https://github.com/etlhako-code/OnlineStore#readme"
+}
